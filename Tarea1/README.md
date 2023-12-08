@@ -26,7 +26,11 @@ Como aclaración, el comando se utiliza sin los simbolos "<>" y el archivo "esta
 ============================================================
 
 Agradeciendo por descargar y estar interesado en mi programa, me despido.
+
 Pedro Cisternas Arce
+
 estudiante de 3° año en Ingeniería Civil Telemática de la Universidad Técnica Federico Santa María
+
 campus San Joaquín, Santiago de Chile.
-                                                           //
+
+                                        / /
