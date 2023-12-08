@@ -17,7 +17,7 @@ Dentro de estas actualizaciones, se podrá visualizar cuantas entradas disponibl
 
 Para poder compilar este programa en sistemas operativos Linux, nada más hará falta correr
 
-        make ARGS="estadio1.txt
+        make ARGS="estadio1.txt"
 
 en la terminal desde la carpeta que contenga todos los archivos extraidos del archivo comprimido .tar.gz (opción disponible dentro del paquete "build-essential" para las compilaciones y demases, paquete instalable desde la terminal con <sudo apt-get install build-essential>).
 De ser otro su sistema operativo, deberá consultar otras alternativas para poder compilar y obtener el ejecutable de los distintos códigos que constan el programa completo (.exe para Windows, por ejemplo).
