@@ -31,6 +31,4 @@ Pedro Cisternas Arce
 
 estudiante de 3° año en Ingeniería Civil Telemática de la Universidad Técnica Federico Santa María
 
-campus San Joaquín, Santiago de Chile.
-
-                                        / /
+campus San Joaquín, Santiago de Chile.//
