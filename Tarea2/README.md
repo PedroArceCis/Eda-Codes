@@ -18,7 +18,7 @@ ej: "2009-06-02;04:44:35;(nombre_usuario);(mensaje_tweet)"
 keys.txt: (números en una sola línea separados por espacios)
 ej: "1600120 1600106 1600095 2200234 1600077 52 1600205 1600167 1600174 1600127 24 2200249 1600072 1600197 2200259 1600104 1600087 1600203 1600152 2200241 1600137 5 2200250 1600204"
 
-Fuera de esto, se generará un archivo "reportes.txt" el cual contendrá un análisis de la relación empírica existentes entre los distintos tipos de algoritmos de ordenamiento utilizados.
+Fuera de esto, se generará un archivo "reportes.txt" el cual contendrá un análisis de la relación empírica existente entre los distintos tipos de algoritmos de ordenamiento utilizados.
 
 Para poder compilar este programa en sistemas operativos Linux, nada más hará falta correr
 
