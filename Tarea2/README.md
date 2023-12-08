@@ -10,7 +10,9 @@ Con esto, el programa es bastante útil para comprender el tamaño de las difere
 Como ciertas restricciones previas para los archivos de texto a introducir junto a la ejecución del programa, es importante recalcar que ninguna linea debe sobrepasar los 2000 caracteres (o de quererse igualmente, se puede modificar el valor de "linea_max" experesado al inicio del código "funciones.c"). A la vez, dichas lineas de texto deben seguir el siguiente formato específico para el correcto funcionamiento del programa:
 
 tweets.csv:
+
 "fecha;hora;usuario;mensaje" <=> "año-mes-día;hora:min:seg;usuario;mensaje"
+
 ej: "2009-06-02;04:44:35;(nombre_usuario);(mensaje_tweet)"
 
 keys.txt: (números en una sola línea separados por espacios)
@@ -20,13 +22,22 @@ Fuera de esto, se generará un archivo "reportes.txt" el cual contendrá un aná
 
 Para poder compilar este programa en sistemas operativos Linux, nada más hará falta correr
 
-<make ARGS="tweets.csv keys.txt">
+    make ARGS="tweets.csv keys.txt"
 
-en la terminal desde la carpeta que contenga todos los archivos extraidos del archivo comprimido .tar.gz (opción disponible dentro del paquete "build-essential" para las compilaciones y demases, paquete instalable desde la terminal con <sudo apt-get install build-essential>).
+en la terminal desde la carpeta que contenga todos los archivos extraidos del archivo comprimido .tar.gz (opción disponible dentro del paquete "build-essential" para las compilaciones y demases, paquete instalable desde la terminal con
+
+    sudo apt-get install build-essential
+    
+).
+
 De ser otro su sistema operativo, deberá consultar otras alternativas para poder compilar y obtener el ejecutable de los distintos códigos que constan el programa completo (.exe para Windows, por ejemplo).
-Como aclaración, el comando se utiliza sin los simbolos "<>" y los archivos "tweets.csv" y "keys.txt" pueden reemplazarse por otros archivos de texto plano que respeten las normas y el formato aclarados en un inicio.
+Como aclaración, los archivos "tweets.csv" y "keys.txt" pueden reemplazarse por otros archivos de texto plano que respeten las normas y el formato aclarados en un inicio.
 
 
 Agradeciendo por descargar y estar interesado en mi programa, me despido.
-Pedro Cisternas Arce, estudiante de 3° año en Ingeniería Civil Telemática de la Universidad Técnica Federico Santa María, campus San Joaquín, Santiago de Chile.
-                                                           //
+
+Pedro Cisternas Arce
+
+estudiante de 3° año en Ingeniería Civil Telemática de la Universidad Técnica Federico Santa María
+
+campus San Joaquín, Santiago de Chile.//
